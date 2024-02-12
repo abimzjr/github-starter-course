@@ -113,4 +113,4 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 3. Ajayi Opemipo - (Student) Software Engineering Babcock University - ajayiopemipo1@gmail.com
 4. Covenant Ogowale - (Student) Computer Science RECTEM - justcovenant@gmail.com
 5. Abraham Adejumo - (Student) Computer Science RECTEM - abrahamadejumo2003@gmail.com
-6.Abimbola Ayomiposi - (Stundent) Software Engineering Babcock University - abimbolaayomz@gmail.com
+6.Abimbola Ayomiposi - (Student) Software Engineering Babcock University - abimbolaayomz@gmail.com
